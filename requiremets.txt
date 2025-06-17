@@ -1,0 +1,5 @@
+spleeter==2.4.2
+tensorflow==2.12.1
+torch==2.7.1
+numpy==1.23.5
+git+https://github.com/svc-develop-team/so-vits-svc.git@main#egg=so-vits-svc
